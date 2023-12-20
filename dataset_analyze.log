@@ -1,0 +1,13 @@
+2023-12-20 11:18:38,787 - SVD_logger - INFO - Number of unique categories: 60215
+2023-12-20 11:18:39,248 - SVD_logger - INFO - Qtty cs: 227544
+2023-12-20 11:18:39,248 - SVD_logger - INFO - Qtty math: 394510
+2023-12-20 11:18:39,248 - SVD_logger - INFO - Qtty q_bio: 18427
+2023-12-20 11:18:39,248 - SVD_logger - INFO - Qtty econ: 33299
+2023-12-20 11:18:39,248 - SVD_logger - INFO - Qtty q_fin: 7987
+2023-12-20 11:18:39,248 - SVD_logger - INFO - Qtty physics: 1007908
+2023-12-20 11:18:39,248 - SVD_logger - INFO - Qtty eess: 27416
+2023-12-20 11:18:39,248 - SVD_logger - INFO - Qtty stat: 19761
+2023-12-20 11:19:08,941 - SVD_logger - INFO - Quantity of all tokens
+2023-12-20 11:19:25,728 - SVD_logger - INFO - Quantity of tokens with min_df = 2 and max_df = 5000
+2023-12-20 11:19:42,325 - SVD_logger - INFO - Quantity of tokens with DF = 1
+2023-12-20 11:19:59,344 - SVD_logger - INFO - Quantity of tokens with DF > 5000

@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+arxiv_final_env/
+.idea/
+__pycache__/
+arxiv-metadata-oai-snapshot.json
+prepr_voc_singles_no_latex_ver_4.pk
+possible_plurals_no_latex_ver_4.pk
+tokens_dict_singles_no_latex_ver_4.pk
+non_eng_no_latex_ver_4.pk
