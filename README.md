@@ -23,3 +23,5 @@ vocab.py - contains foreign texts.
 common_words.py - contains common words, abbreviations, withdrawn items, greek letters and combinations.
 
 dataset_exceptions.py - contains id of the articles with incorrectly formatted LaTex, foreign articles, articles with incorrect line split.
+
+mapping.py - contains plurals to singulars mapping.
